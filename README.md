@@ -73,7 +73,7 @@ Every audit includes:
 ![connect-flow](SCREEN~1/connect-flow.png)
 ![app-picker](SCREEN~1/app-picker.png)
 ![audit-email](SCREEN~1/audit-email.png)
-![form-mobile](SCREEN~1/form-mobile.png)
+![cvc-upload](SCREEN~1/cvc-upload.png)
 ![unity-code-fix](SCREEN~1/unity-code-fix.png)
 
 ---
