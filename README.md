@@ -74,6 +74,8 @@ Every audit includes:
 ![audit-email](screenshots/audit-email.png)
 ![form-mobile](screenshots/form-mobile.png)
 ![unity-code-fix](screenshots/unity-code-fix.png)
+
+---
 ## 🛡️ Security & privacy
 
 - **Read-only access only.** We use the `admob.readonly` scope. We literally cannot see your password or change anything in your account.
