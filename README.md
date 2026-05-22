@@ -183,7 +183,7 @@ Revenue Doctor AI exists because the founder spent years earning $1-5/day on gam
 
 - 🌐 Live tool: [chupamobiles.com/revenue-doctor-ai](https://chupamobiles.com/revenue-doctor-ai/)
 - 🛒 Game source code marketplace: [chupamobiles.com](https://chupamobiles.com)
-- 📧 Email: chupamobiles@gmail.com
+- 📧 Email: support@chupamobiles.com
 - 🐦 Twitter / X: *coming soon — follow for build-in-public updates*
 
 If your studio runs 5+ apps and wants bulk audits, white-label diagnosis reports, or API access — reach out.
