@@ -5,7 +5,7 @@ Recommended images to capture:
 - `connect-flow.gif` — clicking Connect AdMob → OAuth → app picker
 - `app-picker.png` — your real apps with last-30-day earnings
 - `audit-email.png` — the diagnosis email with masked numbers
-- `form-mobile.png` — mobile-responsive form
+- `cvc upload.png` — mobile-responsive form
 - `unity-code-fix.png` — example C# code fix snippet from a real audit
 
 Then reference them in README.md like:
