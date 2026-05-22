@@ -68,12 +68,12 @@ Every audit includes:
 3. **✍️ Enter Manually** — Just type DAU + monthly revenue. The audit works with whatever you have.
 
 ---
-![Hero](screenshots/hero.png)
-![connect-flow](screenshots/connect-flow.png)
-![app-picker](screenshots/app-picker.png)
-![audit-email](screenshots/audit-email.png)
-![form-mobile](screenshots/form-mobile.png)
-![unity-code-fix](screenshots/unity-code-fix.png)
+![Hero](SCREEN~1/hero.png)
+![connect-flow](SCREEN~1/connect-flow.png)
+![app-picker](SCREEN~1/app-picker.png)
+![audit-email](SCREEN~1/audit-email.png)
+![form-mobile](SCREEN~1/form-mobile.png)
+![unity-code-fix](SCREEN~1/unity-code-fix.png)
 
 ---
 ## 🛡️ Security & privacy
