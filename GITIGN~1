@@ -1,0 +1,12 @@
+# This repo is marketing-only — never commit anything that could leak the product
+*.php
+*.sqlite*
+.env
+config*.php
+phpmailer/
+lib/
+oauth/
+data/
+*.log
+node_modules/
+.DS_Store
