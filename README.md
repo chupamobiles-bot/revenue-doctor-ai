@@ -68,7 +68,12 @@ Every audit includes:
 3. **✍️ Enter Manually** — Just type DAU + monthly revenue. The audit works with whatever you have.
 
 ---
-
+![Hero](screenshots/hero.png)
+![connect-flow](screenshots/connect-flow.png)
+![app-picker](screenshots/app-picker.png)
+![audit-email](screenshots/audit-email.png)
+![form-mobile](screenshots/form-mobile.png)
+![unity-code-fix](screenshots/unity-code-fix.png)
 ## 🛡️ Security & privacy
 
 - **Read-only access only.** We use the `admob.readonly` scope. We literally cannot see your password or change anything in your account.
