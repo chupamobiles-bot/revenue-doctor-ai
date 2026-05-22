@@ -1,6 +1,5 @@
 <div align="center">
-![Hero](SCREEN~1/hero.png)
-  ---
+
 # 🩺 Revenue Doctor AI
 
 ### AI-powered diagnosis for low-earning mobile games
@@ -18,7 +17,8 @@ A free AI auditor for mobile game monetization. Connect your ad network in one c
 </div>
 
 ---
-
+![Hero](SCREEN~1/hero.png)
+  ---
 ## 🤔 Why does this exist?
 
 Most indie mobile games earn **far less than they could**. Common reasons:
