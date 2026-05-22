@@ -1,5 +1,6 @@
 <div align="center">
 ![Hero](SCREEN~1/hero.png)
+  ---
 # 🩺 Revenue Doctor AI
 
 ### AI-powered diagnosis for low-earning mobile games
