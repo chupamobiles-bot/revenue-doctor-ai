@@ -1,5 +1,5 @@
 <div align="center">
-
+![Hero](SCREEN~1/hero.png)
 # 🩺 Revenue Doctor AI
 
 ### AI-powered diagnosis for low-earning mobile games
@@ -68,7 +68,7 @@ Every audit includes:
 3. **✍️ Enter Manually** — Just type DAU + monthly revenue. The audit works with whatever you have.
 
 ---
-![Hero](SCREEN~1/hero.png)
+
 ![connect-flow](SCREEN~1/connect-flow.png)
 ![app-picker](SCREEN~1/app-picker.png)
 ![audit-email](SCREEN~1/audit-email.png)
