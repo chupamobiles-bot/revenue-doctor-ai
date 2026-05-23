@@ -70,7 +70,7 @@ Every audit includes:
 
 ---
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=H5ludhPT_uI)
+[![Watch the demo](https://img.youtube.com/vi/H5ludhPT_uI/maxresdefault.jpg)](https://www.youtube.com/watch?v=H5ludhPT_uI)
 
 ---
 
