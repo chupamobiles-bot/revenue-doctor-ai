@@ -69,7 +69,7 @@ Every audit includes:
 3. **✍️ Enter Manually** — Just type DAU + monthly revenue. The audit works with whatever you have.
 
 ---
-
+Demo Video
 [![Watch the demo](https://img.youtube.com/vi/H5ludhPT_uI/maxresdefault.jpg)](https://www.youtube.com/watch?v=H5ludhPT_uI)
 
 ---
