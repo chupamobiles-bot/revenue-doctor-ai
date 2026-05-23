@@ -70,6 +70,10 @@ Every audit includes:
 
 ---
 
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=H5ludhPT_uI)
+
+---
+
 ![connect-flow](SCREEN~1/connect-flow.png)
 ![app-picker](SCREEN~1/app-picker.png)
 ![audit-email](SCREEN~1/audit-email.png)
